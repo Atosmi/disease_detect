@@ -79,6 +79,3 @@ To deploy the project on Raspberry Pi 3, follow these steps:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-#� �d�i�s�e�a�s�e�_�d�e�t�e�c�t�
-�
-�
