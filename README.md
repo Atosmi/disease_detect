@@ -18,7 +18,7 @@ To use this project, clone the repository to your local machine:
 
 ```
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Atosmi/disease_detect.git
 ```
 
 
